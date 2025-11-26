@@ -1,0 +1,13 @@
+batch_size: 32
+data_dir: ogyeiv2
+dataset_structure: split
+debug_mode: true
+debug_train_size: 500
+debug_val_size: 100
+epochs: 10
+img_size: 224
+inference_dir: vdv-imgclass
+inference_output_csv: vdv-imgclass.csv
+learning_rate: 0.001
+model_save_path: meds_classifier.pt
+target_val_acc: 75.0
