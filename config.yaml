@@ -1,7 +1,7 @@
 batch_size: 32
 data_dir: ogyeiv2
 dataset_structure: split
-debug_mode: true
+debug_mode: false
 debug_train_size: 500
 debug_val_size: 100
 epochs: 10
